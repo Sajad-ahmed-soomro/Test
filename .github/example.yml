@@ -1,0 +1,8 @@
+name: hello-world
+on: push 
+jobs:
+  my-job:
+  runs-on : ubunut-latest
+  steps:
+  name: hellow
+  run : echo "hello-world"
