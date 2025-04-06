@@ -1,2 +1,2 @@
 console.log("hello world")
-var a=5
+var a=6
